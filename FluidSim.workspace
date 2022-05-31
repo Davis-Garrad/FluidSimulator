@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="FluidSim" Database="" Version="10000">
+  <Project Name="FluidSim" Path="FluidSim.project" Active="Yes"/>
+  <Project Name="BARE2DEngine" Path="../BARE2DEngine/BARE2DEngine.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="FluidSim" ConfigName="Debug"/>
+      <Project Name="BARE2DEngine" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="FluidSim" ConfigName="Release"/>
+      <Project Name="BARE2DEngine" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
